@@ -42,7 +42,7 @@ social:
   email: mail@3gym-kerkyr.ker.sch.gr # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - blogs.sch.gr/3gymkerk
+    - https://blogs.sch.gr/3gymkerk/
     - https://twitter.com/magioladitis # change to your twitter homepage
     - https://github.com/magioladitis # change to your github homepage
     # Uncomment below to add more social links
