@@ -6,13 +6,7 @@
 #   url: {homepage_of_author}
 # -------------------------------------
 
- magioladitis:
-    name: Marios Magioladitis
-    twitter: magioladitis
-    url: https://github.com/magioladitis
-
  greekforce1821:
-    name: Spyros Kokotos
+    name: Spyros Kokotos	
     twitter: SpyridonKokotos
     url: https://github.com/Greekforce1821
-
