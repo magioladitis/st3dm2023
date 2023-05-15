@@ -1,20 +1,19 @@
-Ομάδα: Κοινωνικά Ευαίσθητοι
+Group: Socially Sensitive
 
-Υπ. καθηγητές: 
+Teachers:
 
-**Αθανασία Καββαδία**, ΠΕ03, ΠΕ04
+Athanasia Kavvadia, PE03, PE04
 
-**Βασιλική Κατσίκα**, ΠΕ86, ΠΕ04
+Vasiliki Katsika, PE86, PE04
 
-**Μάριος Μαγιολαδίτης**, ΠΕ03
+Marios Magioladitis, PE03
 
-Σχολείο: 3ο Γυμνάσιο Κέρκυρας
-Τάξη: Γ’ Γυμνασίου
+School: 3rd Gymnasium of Corfu Grade: 3rd Gymnasium
 
-ΙΔΕΑ: Αλλάζουμε το χώρο που μένουμε ώστε να είναι προσβάσιμος σε όλους
+Idea: Changing our living space to be accessible to everyone
 
-Το σχολείο μας είναι ένα σχολείο κοντά στην παλιά πόλη της Κέρκυρας η οποία αποτελεί τουριστικό προορισμό για χιλιάδες τουρίστες από το εξωτερικό Αλλά και από το εσωτερικό. Ωστόσο το πρόβλημα που διαπιστώνουμε είναι ότι υπάρχουν σημεία τα οποία δεν είναι προσβάσιμα σε ΑΜΕΑ. Θα προσπαθήσουμε να χρησιμοποιήσουμε την τεχνολογία και τις 3D εκτυπώσεις ώστε να προσφέρουμε εύκολες φθηνές λύσεις για τα άτομα με αναπηρία.
+Our school is located near the old town of Corfu, which is a tourist destination for thousands of tourists from abroad and within the country. However, the problem we have identified is that there are areas that are not accessible to people with disabilities. We will try to use technology and 3D printing to provide easy and affordable solutions for people with disabilities.
 
-Οι μαθητές θα καταγράψουν στο χώρο που μένουν προβλήματα προσβασιμότητας. Αφού πρώτα μελετήσουν το χώρο τον χαρτογραφήσουν και βγάλουν φωτογραφίες ώστε να γίνει μελέτη, στη συνέχεια θα προτείνουν λύσεις που μπορούν να μετατρέψουν το χώρο στην ιστορική πόλη και γύρω από αυτήν σε προσβάσιμο σε ΑΜΕΑ.
+The students will document accessibility problems in their living space. After studying and mapping the area and taking photographs for analysis, they will propose solutions that can make the area in and around the historic city accessible to people with disabilities.
 
-Οι άξονες που θα κινηθούμε είναι κυρίως η προσθήκη σημάνσεων με απτικές πινακίδες για άτομα με οπτική αναπηρία είτε σε φανοστάτες είτε σε χώρους διαβάσεις αλλά και η προσθήκη πινακίδων σε γλώσσα braille σε στοιχεία ιστορικού ενδιαφέροντος ώστε να μπορούν να είναι προσβάσιμα από τουρίστες με οπτική αναπηρία αυτές οι κατασκευές είναι εύκολες με 3d printing και θα προσπαθήσουμε να τις υλοποιήσουμε
+The main approaches we will take involve adding tactile signs for visually impaired individuals, either on signposts or in reading spaces, and adding Braille signs to elements of historical interest to make them accessible to visually impaired tourists. These constructions are easily achievable through 3D printing, and we will strive to implement them.
