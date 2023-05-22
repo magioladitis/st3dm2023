@@ -1,5 +1,7 @@
 [Κέρκυρα: οι προσδοκίες για το μέλλον της πόλης](text)
 
+[Η παρουσίαση μας στο pdf](St3dm.pdf)
+
 3ο ΓΥΜΝΑΣΙΟ ΚΕΡΚΥΡΑΣ
 
 Link: https://www.tinkercad.com/things/bxFth08674n-corfu-old-town
