@@ -17,5 +17,7 @@ Our school is located near the old town of Corfu, which is a tourist destination
 The students will document accessibility problems in their living space. After studying and mapping the area and taking photographs for analysis, they will propose solutions that can make the area in and around the historic city accessible to people with disabilities.
 
 The main approaches we will take involve adding tactile signs for visually impaired individuals, either on signposts or in reading spaces, and adding Braille signs to elements of historical interest to make them accessible to visually impaired tourists. These constructions are easily achievable through 3D printing, and we will strive to implement them.
+Link: https://www.tinkercad.com/things/bxFth08674n-corfu-old-town
+
 ![image](https://github.com/magioladitis/magioladitis.github.io/assets/5201502/91f2787a-9753-49c1-aedc-c89dbdc82d67)
 
