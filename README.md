@@ -13,7 +13,8 @@
 
 Link στο Tinkercad: https://www.tinkercad.com/things/bxFth08674n-corfu-old-town
 
-![image](https://github.com/magioladitis/magioladitis.github.io/assets/5201502/91f2787a-9753-49c1-aedc-c89dbdc82d67)
+![image](https://github.com/magioladitis/st3dm2023/assets/5201502/9abe9e69-8f03-4ee0-b1d0-dba574dd05e8)
+
 
 Μαθήτριες της Γ' Γυμνασίου: Ελεωνόρα Μήτση, Αφροδίτη Μιχαλάκη, Κατερίνα Παραμυθιώτη
 
